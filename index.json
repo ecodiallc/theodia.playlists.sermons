@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T23:02:31.000Z",
+  "updatedAt": "2026-10-17T23:45:00.000Z",
   "packages": [
     {
       "id": "charles-finney-revival-sermons",
@@ -22,6 +22,20 @@
         "nineteenth-century",
         "public-domain"
       ],
+      "version": "1.0.0"
+    },
+    {
+      "id": "ra-torrey-revival-addresses",
+      "type": "playlist",
+      "path": "RA-Torrey-Revival-Addresses.playlist.zip",
+      "name": "R. A. Torrey Revival Addresses",
+      "description": "Complete public-domain LibriVox recording of R. A. Torrey's revival addresses: an introduction plus seventeen evangelistic messages.",
+      "author": "R. A. Torrey",
+      "category": "Sermon",
+      "traditions": [
+        "General"
+      ],
+      "tags": [],
       "version": "1.0.0"
     }
   ]
