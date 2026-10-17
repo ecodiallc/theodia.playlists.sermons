@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-17T23:02:31.000Z",
+  "packages": [
+    {
+      "id": "charles-finney-revival-sermons",
+      "type": "playlist",
+      "path": "Charles-Finney-Revival-Sermons.playlist.zip",
+      "name": "Charles Finney Revival Sermons",
+      "description": "Top 20 recordings from Charles G. Finney, the nineteenth-century revivalist: two sermons from Sermons on Important Subjects plus the first eighteen Lectures on Revival of Religion. Free MP3 downloads from charlesgfinney.com.",
+      "author": "Charles G. Finney",
+      "category": "Sermon",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "finney",
+        "revival",
+        "sermons",
+        "charles-g-finney",
+        "nineteenth-century",
+        "public-domain"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}
