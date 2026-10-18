@@ -37,6 +37,20 @@
       ],
       "tags": [],
       "version": "1.0.0"
+    },
+    {
+      "id": "martyn-lloyd-jones-sermon-sampler",
+      "type": "playlist",
+      "path": "Martyn-Lloyd-Jones-Sermon-Sampler.playlist.zip",
+      "name": "Martyn Lloyd-Jones Sermon Sampler",
+      "description": "Top 20 expository sermon selections from Dr. Martyn Lloyd-Jones at Westminster Chapel. The first 10 are the MLJ Trust official top-10 sermons of 2025 (by search traffic); the next 10 are additional widely requested messages across the archive.",
+      "author": "Martyn Lloyd-Jones",
+      "category": "Sermon",
+      "traditions": [
+        "General"
+      ],
+      "tags": [],
+      "version": "1.0.0"
     }
   ]
 }
