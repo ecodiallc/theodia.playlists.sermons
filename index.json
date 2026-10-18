@@ -65,6 +65,20 @@
       ],
       "tags": [],
       "version": "1.0.0"
+    },
+    {
+      "id": "david-pawson-church-history",
+      "type": "playlist",
+      "path": "David-Pawson-Church-History.playlist.zip",
+      "name": "David Pawson — Church History",
+      "description": "David Pawson's complete 11-part overview of church history, tracing the development of Christianity from the first-century church to the return of Jesus.",
+      "author": "David Pawson",
+      "category": "Sermon",
+      "traditions": [
+        "General"
+      ],
+      "tags": [],
+      "version": "1.0.0"
     }
   ]
 }
