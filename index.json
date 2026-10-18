@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T23:45:00.000Z",
+  "updatedAt": "2026-10-18T01:14:26.000Z",
   "packages": [
     {
       "id": "charles-finney-revival-sermons",
@@ -45,6 +45,20 @@
       "name": "Martyn Lloyd-Jones Sermon Sampler",
       "description": "Top 20 expository sermon selections from Dr. Martyn Lloyd-Jones at Westminster Chapel. The first 10 are the MLJ Trust official top-10 sermons of 2025 (by search traffic); the next 10 are additional widely requested messages across the archive.",
       "author": "Martyn Lloyd-Jones",
+      "category": "Sermon",
+      "traditions": [
+        "General"
+      ],
+      "tags": [],
+      "version": "1.0.0"
+    },
+    {
+      "id": "spurgeon-sermon-sampler",
+      "type": "playlist",
+      "path": "Spurgeon-Sermon-Sampler.playlist.zip",
+      "name": "Spurgeon Sermon Sampler",
+      "description": "Top 20 free MP3 recordings of C. H. Spurgeon sermons from the Still Waters Revival Books archive on SermonAudio, selected from the most-downloaded messages and representing a cross-section of Spurgeon's preaching.",
+      "author": "C. H. Spurgeon",
       "category": "Sermon",
       "traditions": [
         "General"
