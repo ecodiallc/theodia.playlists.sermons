@@ -15,3 +15,9 @@
 - `martyn-lloyd-jones-sermon-sampler`: Free to stream/download from [MLJ Trust](https://www.mljtrust.org/sermons/); verify redistribution terms on their site.
 - `spurgeon-sermon-sampler`: Free MP3 downloads from [Still Waters Revival Books on SermonAudio](https://legacy.sermonaudio.com/search.asp?sortby=downloads&keyword=swrb&keywordDesc=Still+Waters+Revival+Books&SourceOnly=true&currSection=sermonssource&subsetcat=speaker&subsetitem=C.+H.+Spurgeon); public-domain text, recordings freely shared by SWRB.
 - `david-pawson-church-history`: Free to stream/download from [David Pawson](https://www.davidpawson.org/resources/series/church-history); verify redistribution terms on their site.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
